@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!DOCTYPE cvml SYSTEM "cvml.dtd">
+    <cvml>
+        <name>[Имя Фамилия] </name>
+        <objective>[Должность, зарплата]</objective>
+        <img src = ''></img>
+        <education>[Начало обучения][Окончание обучения][Наименование учебного заведения][Город]</education>
+        <professionalexperience>[Профессиональные навыки]</professionalexperience>
+        <skills>
+            <OperatingSystems>[Список сред программирования]</OperatingSystems>
+            <ProgrammingEnvironments>[Список языков программирования]</ProgrammingEnvironments>
+            <ProgrammingLanguages>[Список платформ]</ProgrammingLanguages>
+        </skills>
+        <Awards>[Информация о наградах (гранты, победы в конкурсах, конкурсах и т.д.)]</Awards>
+        <Languages>[Знания языков]</Languages>
+        <Interests>[Интересы]</Interests>
+        <dateofb>[День Рождения]</dateofb>
+        <sex>[Пол]</sex>
+        <addres>[Улица],[Номер дома][Город]</addres>
+        <marridg>[Семейное положение]</marridg>
+        <email>[Электронная почта]</email>
+        <phone>[Номер телефона]</phone>
+    </cvml>
